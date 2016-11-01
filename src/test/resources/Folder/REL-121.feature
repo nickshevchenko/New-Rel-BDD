@@ -72,3 +72,10 @@ Scenario: Books search
 When I enter book's name
 And click Search
 Then I get the result in a table
+
+@SC_55676
+Scenario: 1
+Given I get the result in a table
+And the boss increases the salary for the employee with id 5 by 7%
+And the salary management system is initialized with the following data
+And new string
