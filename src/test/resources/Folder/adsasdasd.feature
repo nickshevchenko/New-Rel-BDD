@@ -1,12 +1,12 @@
-@ST_1187
+@ST_14894
 Feature: It could not be loaded without a name
 
-@SC_1235
+@SC_62572
 Scenario: 
 Given ee
 Then aa
 
-@SC_1236 @dada @G
+@SC_62573 @dada @G
 Scenario Outline: Scenario
 Dada
 Given when
