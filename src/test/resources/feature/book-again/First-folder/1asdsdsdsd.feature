@@ -23,13 +23,12 @@ New York City comprises 5 boroughs sitting where the Hudson River meets the Atla
  New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.
 New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.
  New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.
-Given asd sdfsdfsfdцццууццц
+Given asd sdfsdfsfd
 And kjsdfhkdsdsdsdsdsdsddsd dfdfasdasdasdadsadasdasdadasdasdasd
 When add a new table with <first><second><3>
 
 Examples: 
-|first|second|3|emptyCol|
-||||||
+|first|second|3|
 
 @SC_55656
 Scenario Outline: Scenario #1
@@ -42,19 +41,6 @@ Then testasdasdasdda
 
 Examples: 
 |first|select|again|temp|rest|doctor who|mett smith|tardis|hello|eleven|wednesday|good morning|
-|one||||||||||||
-|twp||||||||||||
-|||||||||||||
-|||||||||||||
-|||||||||||||
-|||||||||||||
-|||||||||||||
-|||||||||||||
-|||||||||||||
-|||||||||||||
-|||||||||||||
-|||||||||||||
-
 
 @SC_55657
 Scenario: Check scenario
