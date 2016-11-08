@@ -29,6 +29,7 @@ When add a new table with <first><second><3>
 
 Examples: 
 |first|second|3|
+||||
 
 @SC_55656
 Scenario Outline: Scenario #1
@@ -41,6 +42,7 @@ Then testasdasdasdda
 
 Examples: 
 |first|select|again|temp|rest|doctor who|mett smith|tardis|hello|eleven|wednesday|good morning|
+|||||||||||||
 
 @SC_55657
 Scenario: Check scenario
