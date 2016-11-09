@@ -1,0 +1,6 @@
+Feature: HelloandhelloOnceuponatimeIwantedtotakeanewissuetoresolveHelloandhelloOnceuponatimeIwantedtotakeanewissuetoresolveHelloandhelloOnceuponatimeIwantedtotakeanewissuetoresolve
+
+Scenario: Hello
+Given a new feature
+When and this is a
+Then once once
